@@ -5,7 +5,7 @@
 
 
 
-[![@nagarjun7397's Holopin board](https://holopin.io/api/user/board?user=nagarjun7397)](https://holopin.io/@nagarjun7397)
+<!--- [![@nagarjun7397's Holopin board](https://holopin.io/api/user/board?user=nagarjun7397)](https://holopin.io/@nagarjun7397) --->
 
 
 <!---
